@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083874034270",
+    "project_id": "video-calling-c22ce",
+    "storage_bucket": "video-calling-c22ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083874034270:android:9863db2a63353bb03caacf",
+        "android_client_info": {
+          "package_name": "com.basudev.videocalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083874034270-3l70d49u3ku868k4r3j0dq9lk8ohqqbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.basudev.videocalling",
+            "certificate_hash": "53f5fdd5f0442a580b2e4a60051bade9da0faa95"
+          }
+        },
+        {
+          "client_id": "1083874034270-kb529i7oebi6m8u4gaehs9esaju6aqog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2k7jTKPoMKpnt683-tnsTNO3ZeI33cd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083874034270-kb529i7oebi6m8u4gaehs9esaju6aqog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
